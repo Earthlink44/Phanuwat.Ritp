@@ -15,7 +15,7 @@ zelda.pencolor('blue')
 zelda.pensize(2)
 zelda.hideturtle()
 
-# Create a turtle name zelda
+# Create a turtle name ganon
 ganon = turtle.Turtle()
 ganon.speed(0)
 ganon.pencolor('green')
